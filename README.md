@@ -5,20 +5,18 @@
 #####
 
 ## Description
+This application is a project management tool that emphasizes breaking down major projects into managable tasks for developers. With this app, project managers are able to see not only the Epics, Stories and Tasks that are currently in progress, but are also able to track the efficiency of their programmers, the speed at which projects tend to be completed, as well as relaying important messages to their team. 
 
 ## Setup
 
-Clone this repository:
-```
-
-```
+Clone this repository
 
 Open terminal and run Postgres:
 ```
 $ postgres
 ```
 
-Open a new tab in terminal and create the `hair_salon` database:
+Open a new tab in terminal and create the `project_tracking` database:
 ```
 $ psql
 $ CREATE DATABASE ;
